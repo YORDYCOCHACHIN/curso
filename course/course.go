@@ -1,4 +1,4 @@
-package cursito
+package course
 
 import "fmt"
 
